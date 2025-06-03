@@ -62,7 +62,7 @@ Este proyecto busca analizar un conjunto de datos reales de propinas en un resta
 
 - 📧 **Email**: angeltroncoso2019@outlook.es  
 - 💼 **LinkedIn**: [linkedin.com/in/angeltroncoso](https://linkedin.com/in/angeltroncoso)  
-- 🐱 **GitHub**: [@angel-data](https://github.com/angel-data)
+- 🐱 **GitHub**: [@angel-data](https://github.com/AngelTroncoso)
 
 ---
 
